@@ -1,0 +1,449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter sent from the roaring boyes in Elizium; to the two arrant knights of the grape, in limbo, Alderman Abel and M. Kilvert, the two great projectors for wine: and to the rest of the worshipfull brotherhood of that patent. Brought over lately by Quart-pot, an ancient servant to Bacchus, whom for a long time they had most cruelly rackt, but hope shortly to be restored to his ancient liberties. Whereunto is added, the oration which Bacchus made to his subjects, in the lower world: published for the satisfaction and benefit of his subjects here.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80488</idno>
+            <idno type="STC">Wing C6153</idno>
+            <idno type="STC">Thomason E156_8</idno>
+            <idno type="STC">ESTC R22174</idno>
+            <idno type="EEBO-CITATION">99871638</idno>
+            <idno type="PROQUEST">99871638</idno>
+            <idno type="VID">156871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156871)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E156[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter sent from the roaring boyes in Elizium; to the two arrant knights of the grape, in limbo, Alderman Abel and M. Kilvert, the two great projectors for wine: and to the rest of the worshipfull brotherhood of that patent. Brought over lately by Quart-pot, an ancient servant to Bacchus, whom for a long time they had most cruelly rackt, but hope shortly to be restored to his ancient liberties. Whereunto is added, the oration which Bacchus made to his subjects, in the lower world: published for the satisfaction and benefit of his subjects here.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.]Brought over by the same messenger,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title page woodcut.</note>
+                  <note>In verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abell, William, fl. 1640 --  Early works to 1800.</term>
+               <term>Kilvert, Richard, d. 1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156871:1" rendition="simple:additions"/>
+            <p>THE COPIE OF A LETTER SENT FROM The Roaring Boyes in ELIZIUM; <hi>To the two arrant Knights of the Grape, in</hi> Limbo, <hi>Alder<g ref="char:EOLhyphen"/>man Abel and M. Kilvert, the two great Projector<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for wine: And to the reſt of the worſhipfull Brotherhood of that Patent.</hi>
+            </p>
+            <p>Brought over lately by Quart-pot, an ancient ſervant to <hi>Bacchus,</hi> whom for a long time they had moſt cruelly Rackt, but hope ſhortly to be reſto<g ref="char:EOLhyphen"/>red to his ancient liberties.</p>
+            <p>
+               <hi>Whereunto is added, the Oration which</hi> Bacchus <hi>made to his ſubjects, in the lower World: publiſhed for the ſa<g ref="char:EOLhyphen"/>tisfaction and benefit of his ſubjects here.</hi>
+            </p>
+            <figure/>
+            <p>Brought over by the ſame Meſſenger 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="verse_letter">
+            <pb facs="tcp:156871:2"/>
+            <head>A LETTER &amp;c.</head>
+            <lg>
+               <l>
+                  <hi>BAcchus</hi> into <hi>Elizium</hi> tooke his way,</l>
+               <l>And to his crew proclaym'd a holy day</l>
+               <l>And taking up his Horne that held a Tonne</l>
+               <l>Of right Canary, drunk't off, and begunne</l>
+               <l>To wind it ſo loud that <hi>Elizium</hi>
+               </l>
+               <l>Rang with the Noyes, and every Blade did come:</l>
+               <l>Firſt came the Poets, of each land, and tooke</l>
+               <l>Their place in order, learned <hi>Virgill</hi> ſtruck</l>
+               <l>In for the firſt, <hi>Ben Iohnſon</hi> caſt a glout,</l>
+               <l>And ſwore a mighty oath hee'd pluck him out,</l>
+               <l>And wallowing towards him, with a cup of Wine,</l>
+               <l>He did ſo rattle him with <hi>Catiline,</hi>
+               </l>
+               <l>That had not <hi>Horace</hi> him appeas'd, 'tis ſaid</l>
+               <l>He had throwne great <hi>Sejanus</hi> at his head.</l>
+            </lg>
+            <lg>
+               <l>Next to theſe marcht a band of corpulent ghoſts</l>
+               <l>In ſcarlet faces furr'd with blew, brave hoſts,</l>
+               <l>With each his ſigne, and but they were ſo ſwarmy</l>
+               <l>They might have been gheſt ancients o' the Army.</l>
+            </lg>
+            <lg>
+               <l>Next after theſe in wrathfull haſt did puffe</l>
+               <l>A band in ſcarlet hoſe, and coates of buffe,</l>
+               <l>With baſtinadoes waving with their plumes</l>
+               <l>And ſtay they cry'd; that Raſcall that preſumes</l>
+               <l>To ſtirre a foot Dyes, Damme us ſhall we be thus</l>
+               <l>Abus'd when we doe carry <hi>Bacchus</hi> with us?</l>
+               <l>In this troop <hi>Bacchus</hi> was; and none need doubt him,</l>
+               <l>Becauſe they never went to th' field without him.</l>
+            </lg>
+            <lg>
+               <l>Then ſtrutted forward men of lofty gates,</l>
+               <l>And gallant, trayling after em, their eſtates</l>
+               <l>Like broken pikes, which they in toſſing had</l>
+               <l>Made ſhorter, and in handling them grew mad.</l>
+            </lg>
+            <lg>
+               <l>From theſe, a pretty diſtance, ſneaking follow'd</l>
+               <l>Some of the Clergy, not ſo truly hallow'd</l>
+               <l>But that they might entreated be to take</l>
+               <l>A ſmall refection for their learnings ſake,</l>
+               <l>And leſt they ſhould be brought (for due contrition</l>
+               <l>Of their faults) unto that Low-high-Commiſſion</l>
+               <pb facs="tcp:156871:2"/>
+               <l>They caſt away their coates leſt any gull</l>
+               <l>Should find holes in em, cauſe they were ſo full:</l>
+            </lg>
+            <lg>
+               <l>But then lep't in a noble Citty crew</l>
+               <l>That ſpent all one day what they got in two,</l>
+               <l>Who having ask't ſo long what doe you lack</l>
+               <l>Had loſt their words, and had receiv'd a crack.</l>
+            </lg>
+            <lg>
+               <l>The laſt that came of all theſe warlike Soemen</l>
+               <l>Was a huge band of ſargeants with their Yoemen,</l>
+               <l>But a mad Poet did begin to rayle</l>
+               <l>That they would bring Mace when there was no Ale;</l>
+               <l>And were condemn'd as moſt pernicious ſtinkers</l>
+               <l>Cauſe in their lives they were but taplaſh drinkers,</l>
+               <l>They ſtorm'd; but one of them (being a mounter</l>
+               <l>Told them they car'd not for em of a counter;</l>
+               <l>At which great <hi>Bacchus</hi> laught; and bad the ſinner</l>
+               <l>He and his fellowes ſhould goe fetch up dinner.</l>
+            </lg>
+            <lg>
+               <l>Neates tongues by thouſands came; but moſt were taken</l>
+               <l>With a ſalt gamon of Weſtphalia baken:</l>
+               <l>The Poets and the Soldiers flaſhing ſtood,</l>
+               <l>And great <hi>Ben: Iohnſon</hi> ſwore that it was good,</l>
+               <l>Anchovies ſwom in oyle; but to be briefe</l>
+               <l>Moſt of the Soldiers fell to powder'd-beefe</l>
+               <l>And (as an Hoſt was talking like a Parrat)</l>
+               <l>One ſnatch't his beard, and eate it for carret:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Bacchus</hi> drank round a health, and each one pledg'd it</l>
+               <l>And after, with another cup he wedg'd it</l>
+               <l>Untill their braines, by their cups often chiming</l>
+               <l>Left off their ſack and forthwith fell to ryming,</l>
+               <l>And one amongſt the reſt, amidſt his mirth</l>
+               <l>Talk't of the dearth of wines upon the earth,</l>
+               <l>A ſargeant that was thither late departed</l>
+               <l>For griefe, for 'las they ever were kind hearted,</l>
+               <l>Told them, that now amongſt the worlds great vices</l>
+               <l>Its authors were ſhrowd ſcar'd with their complices</l>
+               <l>And certifi'd em all, with good aſſurance</l>
+               <l>Two of the greateſt of them were in durance,</l>
+               <pb facs="tcp:156871:3"/>
+               <l>At which there ſuch a ſhout aroſe, for joy</l>
+               <l>That on a ſuddain it awaken'd <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y;</hi>
+               </l>
+               <l>Who coming thither, in amongſt 'em cram'd</l>
+               <l>And asked if the Shipmoney were dam'd,</l>
+               <l>They anſwer no, but thoſe that did w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are Sattin</l>
+               <l>And ſtood on Pantofles have loſt their Patten,</l>
+               <l>Whereat he laugh't, and his old jeſts did uſe</l>
+               <l>Why then, quoth he, they will be over ſhoes,</l>
+               <l>Then at the bord there grew a diſputation</l>
+               <l>If they ſhould ſend a letter of conſolation,</l>
+               <l>Unto theſe two late Priſoners, 'twas agreed</l>
+               <l>And thus with matur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> judgement they proceed.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>THE S<g ref="char:V">Ʋ</g>PERSCRIPTION.</head>
+            <l>TO him whoſe name (I now directed am)</l>
+            <l>Has the firſt Letter of an Alderman,</l>
+            <l>Which is A—what you pleaſe, I crav'd to bee</l>
+            <l>Unto that hand deliver'd ſpeedily,</l>
+            <l>Whom all doe hope has hither been preſerv'd</l>
+            <l>To be deliver'd to what 'has deſerv'd,</l>
+            <l>And to his brother likewiſe I would be</l>
+            <l>Becauſe he hath as great a ſhare as he.</l>
+         </div>
+         <div type="verse_letter">
+            <head>THE LETTER.</head>
+            <lg>
+               <l>MOſt worthy Sirs to be what you deſerve</l>
+               <l>Our ancient loves to you cannot ſo ſwerve,</l>
+               <l>From you, but that wee joyous ſhould be't ſee</l>
+               <l>Your ſudden coming to our company,</l>
+               <l>We have good Sack here for you where, you may</l>
+               <l>Drink a full Quart, and when you come to pay,</l>
+               <l>Not breake two ſhillings, but alas we know</l>
+               <l>Y'ave ſwallow'd Wine ſo long you cannot goe,</l>
+               <l>And it is ſaid, by ſome who wiſh your paine</l>
+               <l>You'l never ſtand on your owne leggs againe.</l>
+               <l>Indeed we ſtagger at it, for 'tis pitty</l>
+               <l>That two ſuch worthy members of the Citty,</l>
+               <pb facs="tcp:156871:3"/>
+               <l>Are ſo neere gelding of ſo many pounds</l>
+               <l>Of your eſtate, for ſure it much confounds,</l>
+               <l>U<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> here below; that that ſhould be a crime</l>
+               <l>You did t'abate the Luxury of the Time,</l>
+               <l>For when wine is pull'd downe, ſure youth will rage</l>
+               <l>And then no doubt 'twill prove a drunken age.</l>
+               <l>Indeed you in our pints of Sack did ſtrip's</l>
+               <l>And made our purſes ſerve apprentiſhips,</l>
+               <l>Of ſev'n pence to the Drawer, which yet bred</l>
+               <l>This care and thrift to keep't unforfeited,</l>
+               <l>When oft we would have venturd, and truly</l>
+               <l>This ſmells of Cardinall <hi>Wolſye's</hi> policy.</l>
+            </lg>
+            <lg>
+               <l>But Sirs we pray you in great <hi>Bacchus</hi> name</l>
+               <l>Be carefull of your ſelves, and to your name,</l>
+               <l>Add mettle; for if you ſhould ſuffer in this traine</l>
+               <l>It would be but much wine caſt up againe,</l>
+               <l>And let it come, tis better it were out</l>
+               <l>Then choake you, and let ſilly people flout,</l>
+               <l>Yet good Phyſicians of the ſtate have ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d</l>
+               <l>Caſting of coyne doth cure the paine ith head,</l>
+               <l>And take my word; <hi>Empſon</hi> and <hi>Dudley</hi> here</l>
+               <l>Say ſuch a Purge had ſav'd their lives then cheere,</l>
+               <l>Your drooping ſpirits, we ſpeake this to confirme</l>
+               <l>Your fortitude which ſince the Candel-mas terme,</l>
+               <l>Hath been aſſaulted, and y'have borne it out</l>
+               <l>Courageouſly, and like tall men and ſtoute,</l>
+               <l>Y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t one thing, as your friends, (and we could wiſh</l>
+               <l>We could not lay it now within your diſh,)</l>
+               <l>It was not well done of you to undoe</l>
+               <l>So many poore men, of your owne trade too.</l>
+               <l>And yet ſome might deſerv'd; for they might bee</l>
+               <l>(As we doe very well know) ſawcy as wee,</l>
+               <l>And then (our worthy Cittizen) wee hope yee</l>
+               <l>Might very well undoe them by your copie,</l>
+               <l>And make em free of Beggers-Hall. This may</l>
+               <l>Be true; yet you doe not heare me ſay,</l>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb facs="tcp:156871:4"/>
+               <l>It is; No; we, that here doe feare no ſcore,</l>
+               <l>Have found your Citizens honeſty heretofore,</l>
+               <l>And will not now ſuſpect it. 'Tis our prayers</l>
+               <l>That we may heare ſometimes of your affaires</l>
+            </lg>
+            <lg>
+               <l>Wee heard how ready all your brethren were</l>
+               <l>To lay their Patents downe when they did heare</l>
+               <l>O'th Parliament, and ſome, in time agreed</l>
+               <l>With thoſe th' had injur'd, ere they did proceed,</l>
+               <l>And we admire to ſee you ſo are ſhot</l>
+               <l>To thinke your caskes would hold when theirs would not.</l>
+            </lg>
+            <lg>
+               <l>Your former courſes, queſtion'd now, may be</l>
+               <l>Compar'd to Sack, which when at libertie,</l>
+               <l>Stirres not; but being ſtopt as you are now</l>
+               <l>It burſts the caske, as your owne wine, has you.</l>
+            </lg>
+            <lg>
+               <l>And one thing wee'l adviſe you; that you feed</l>
+               <l>As happily as you can, and ſleepe at need;</l>
+               <l>For you are ſo much hated here by thoſe</l>
+               <l>That dy'd for griefe when prices of Wines roſe,</l>
+               <l>That they doe ſweare it ever as they drinke</l>
+               <l>You ſhall not eate a bit? nor ſleep a winck,</l>
+               <l>When you come hither; this upon our oath</l>
+               <l>They oft proteſted have againſt you both.</l>
+            </lg>
+            <lg>
+               <l>This is All that time gives us leave to write</l>
+               <l>Which we conjecture is no warning ſlight</l>
+               <l>And therefore thinke of it, and uſe as they</l>
+               <l>That wiſh your welfare; and doe laſtly pray</l>
+               <l>Theſe Letters may be read to informe you all,</l>
+               <l>That we below rejoyce at no mans fall;</l>
+               <l>And therefore tell thoſe fellowes that employ</l>
+               <l>Their idle quills for to bely our joy,</l>
+               <l>They doe amiſſe in laying of their tricks</l>
+               <l>On <hi>Charons</hi> boat, and <hi>Acheron</hi> and Stixs,</l>
+               <l>And ſo we bid farewell, and ſee you doe</l>
+               <l>Make much of Juſtice, ſhee'l make much of you.</l>
+            </lg>
+            <closer>
+               <dateline>
+                  <hi>Given at our Rendevous in Bacchus Palace in Elizium.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="verse">
+            <div type="verse_preface">
+               <pb facs="tcp:156871:4"/>
+               <l>This ſea'd, was ſtraight deliver'd to Quart-pot</l>
+               <l>To beare away; when <hi>Bacchus</hi> with a hot,</l>
+               <l>And fiery looke gap't thrice, and gave two knocks</l>
+               <l>Made 'em all ſhake and ſtand like ſenſeles ſtocks</l>
+               <l>Whilſt with a gravity he did reherſe,</l>
+               <l>This ſhort Oration (as it is) in verſe.</l>
+            </div>
+            <div type="verse_oration">
+               <head>THE ORATION.</head>
+               <l>ANd yet, my Prudent Councell, let me tell 'ee</l>
+               <l>I ſee my bounty here doth too much ſwell yee,</l>
+               <l>Tis ſtrange that you ſhould favour ſuch a cauſe</l>
+               <l>And men that have ſo deep tranſgreſs't my lawes,</l>
+               <l>As theſe have; and to gives 'em ſuch kind words</l>
+               <l>In their juſt puniſhment, their crime affords,</l>
+               <l>No mercy; for the naked truth to tell</l>
+               <l>I well could wiſh there were a whip at <hi>Abel,</hi>
+               </l>
+               <l>To jerke em, and to firke em, and to raiſe</l>
+               <l>Their memory as they rais'd wine of late dayes,</l>
+               <l>When like to Bakers (they the world to cozen</l>
+               <l>Did ſift wine, making foureteen pence to th'dozen,</l>
+               <l>Which is an innovation, for their good</l>
+               <l>To hoiſt up wine above the price of blood;</l>
+               <l>For their ten pence; you know, throughout all ages</l>
+               <l>Hath ever been, and is, the Hangman's wages.</l>
+               <l>Conſider of it: England, ſome of you</l>
+               <l>Nay I my ſelfe have been abuſed too,</l>
+               <l>How many of my ſubjects have refrain'd</l>
+               <l>The Taverne, my deere temple, cauſe 'twas ſtain'd,</l>
+               <l>With ſuch extorſion? and were faine</l>
+               <l>For want of two pence to goe home againe?</l>
+               <l>Two pence? why I will tell you, tis no leſſe</l>
+               <l>Then halfe a groat, and boldly I profeſſe,</l>
+               <l>For two pence more, a man might fully dine</l>
+               <l>Or purchaſe three parts of a pint of Wine,</l>
+               <l>Claret I mean<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> white: how many here</l>
+               <pb facs="tcp:156871:5"/>
+               <l>Now in this place have kill'd themſelves with Beere,</l>
+               <l>Ev'n for this cauſe? Beſides we well may gather</l>
+               <l>That men oft times gave o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, when they had rather,</l>
+               <l>Have ſerv'd mee ſtill, I ſpeake it from my heart</l>
+               <l>In ſeven pints th'are cheated of a quart,</l>
+               <l>O injury! and ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you wiſh theſe men</l>
+               <l>Here, that they might revive their trade agen,</l>
+               <l>That by their cunning having wrong'd you too</l>
+               <l>You then might curſe em as the Citty doe,</l>
+               <l>Write me a letter that may fully cruſh em</l>
+               <l>And not ſuch tickling lines as onely bruſh em,</l>
+               <l>Can you that are the Poets thinke upon</l>
+               <l>This ſad reſtraint upon your Helicon,</l>
+               <l>And not revenge it? can you ſtay</l>
+               <l>And ſee a weeks pay drunke out in a day,</l>
+               <l>By ſuperarogation? you that are</l>
+               <l>The luſty cap and feather-men of warre?</l>
+               <l>Can you my worthy hoſts fit and ſee thoſe</l>
+               <l>That make you weare od money in your noſe,</l>
+               <l>Under your noſe triumphing? can you men</l>
+               <l>You little lecturers that have but ten,</l>
+               <l>A yeare endure it; no, it ſhall not be</l>
+               <l>Weel have 'em downe, and now me thinks I ſee,</l>
+               <l>Your mind bent too't, drinke deep my ſubjects all</l>
+               <l>That wines ifaith ſhall with a ding-dong fall.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
